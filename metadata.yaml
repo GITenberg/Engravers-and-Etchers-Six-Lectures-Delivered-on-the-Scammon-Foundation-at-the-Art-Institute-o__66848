@@ -1,0 +1,33 @@
+_repo: Engravers-and-Etchers-Six-Lectures-Delivered-on-the-Scammon-Foundation-at-the-Art-Institute-o__66848
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carrington, Fitz Roy
+    aliases:
+    - Carrington, Fitzroy
+    - Carrington, FitzRoy
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '45560'
+    url: http://www.gutenberg.org/2009/agents/45560
+description: ''
+gutenberg_issued: '2021-11-30'
+identifiers:
+  gutenberg: '66848'
+language: en
+pgterms:marc904: https://archive.org/details/engraversetchers00carr/page/n9/mode/2up
+pgterms:marc905: 20201011135803carrington
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Charlene Taylor, Alan and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United States :Art Institute of Chicago,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Engravers and Etchers: Six Lectures Delivered on the Scammon Foundation at
+  the Art Institute of Chicago, March 1916'
+url: http://www.gutenberg.org/ebooks/66848
