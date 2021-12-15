@@ -1,5 +1,8 @@
 _repo: Engravers-and-Etchers-Six-Lectures-Delivered-on-the-Scammon-Foundation-at-the-Art-Institute-o__66848
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66848-h/images/cover.jpg
 creator:
   author:
     agent_name: Carrington, Fitz Roy
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '45560'
     url: http://www.gutenberg.org/2009/agents/45560
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66848#Engravers-and-Etchers-Six-Lectures-Delivered-on-the-Scammon-Foundation-at-the-Art-Institute-o_
 gutenberg_issued: '2021-11-30'
 identifiers:
   gutenberg: '66848'
